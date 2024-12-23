@@ -50,6 +50,10 @@ The malicious script is executed using the `nohup` command to keep it running in
 
 ---
 
+## Result (the foolder was created in target system)
+
+![result](https://github.com/CHIRANJEET1729DAS/C2-server-/blob/main/Result/result.png)
+
 ## Security Implications
 
 This project is an example of how an attacker can take advantage of reverse shells and malicious SSH servers to gain unauthorized access to a system. The nohup command ensures that the malicious payload continues running in the background after the victim disconnects from the server.
