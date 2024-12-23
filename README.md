@@ -1,4 +1,4 @@
-# C2-server- Example Demonstration -- here I just create a directory with my name.txt in the system of whoever try to connect (like ssh) to the bait server (Yup it posssible under common circumstances :))       --Chranjeet Das
+# C2-server- Example Demonstration -- here I just create a directory with my name.txt in the system of whoever try to connect (like ssh) to the bait server (Yup it is posssible under common circumstances :))       --Chranjeet Das
 
             
  
