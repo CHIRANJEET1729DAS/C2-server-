@@ -1,5 +1,5 @@
-# C2-server-
-
+# C2-server- Example Demonstration here I just create a directory with my name.txt in the system of whoever try to connect (like ssh) to the bait server (Yup I can do it :) )
+ 
 # Reverse Shell Server with Malicious Payload
 
 ## Project Overview
