@@ -54,7 +54,7 @@ The malicious script is executed using the `nohup` command to keep it running in
 
 ## Result (The folder was created in the target machine)
 
-![speechtotext](https://github.com/user-attachments/assets/fd339e28-3677-451f-9eaa-3d665887e0b6)
+![result](https://github.com/CHIRANJEET1729DAS/C2-server-/blob/main/Result/result.png)
 
 
 ## Security Implications
