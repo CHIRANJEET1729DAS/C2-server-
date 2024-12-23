@@ -1,6 +1,6 @@
 # C2-server-
 
-# Reverse Shell Chat Server with Malicious Payload
+# Reverse Shell Server with Malicious Payload
 
 ## Project Overview
 
