@@ -52,6 +52,11 @@ The malicious script is executed using the `nohup` command to keep it running in
 
 ---
 
+## Result (The folder was created in the target machine)
+
+![speechtotext](https://github.com/user-attachments/assets/fd339e28-3677-451f-9eaa-3d665887e0b6)
+
+
 ## Security Implications
 
 This project is an example of how an attacker can take advantage of reverse shells and malicious SSH servers to gain unauthorized access to a system. The nohup command ensures that the malicious payload continues running in the background after the victim disconnects from the server.
