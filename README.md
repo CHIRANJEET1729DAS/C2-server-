@@ -1,4 +1,6 @@
-# C2-server- Example Demonstration -- here I just create a directory with my name.txt in the system of whoever try to connect (like ssh) to the bait server (Yup it posssible under common circumstances :)) 
+# C2-server- Example Demonstration -- here I just create a directory with my name.txt in the system of whoever try to connect (like ssh) to the bait server (Yup it posssible under common circumstances :))       --Chranjeet Das
+
+            
  
 # Reverse Shell Server with Malicious Payload
 
